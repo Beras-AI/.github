@@ -20,3 +20,6 @@ Beras.AI is an android application based on Machine Learning which has a rice qu
 
 ## Screenshot App 
 <p align="center"><img src="https://i.ibb.co/0GrfpP4/screenshot.jpg" alt="screenshot" border="0"></p>
+
+## Deployed App 
+You can download the app through this link : [Link Apk](https://drive.google.com/file/d/1vP74l85X7SEQoPipMa_wj1-zd6qZhZmG/view?usp=drive_link)
